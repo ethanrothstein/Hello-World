@@ -1,7 +1,7 @@
 # INFORMATION
 **Important**
 
-a) [Project Title](files/ProjectTitle.md)
+a) [Project Title](ProjectTitle.md)
 
 b) Description
 
