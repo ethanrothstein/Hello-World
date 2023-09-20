@@ -4,8 +4,8 @@ __**Important**__
 
 a) [Project Title](ProjectTitle.md)
 
-b) [Description](Description)
+b) *[Description](Description)*
 
-c) [Files Used](FilesUsed.md)
+c) **[Files Used](FilesUsed.md)**
 
 d) [Versioning](Versioning)
