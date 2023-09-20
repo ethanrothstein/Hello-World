@@ -3,7 +3,7 @@
 
 a) [Project Title](ProjectTitle.md)
 
-b) Description
+b) [Description]
 
 c) Files Used
 
