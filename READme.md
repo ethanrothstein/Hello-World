@@ -1,6 +1,6 @@
 # INFORMATION
-**Important**
-
+_**Important**
+_
 a) [Project Title](ProjectTitle.md)
 
 b) [Description](Description)
