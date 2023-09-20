@@ -2,10 +2,10 @@
 __**Important**__
 
 
-a) [Project Title](ProjectTitle.md)
+1. [Project Title](ProjectTitle.md)
 
-b) *[Description](Description)*
+2. *[Description](Description)*
 
-c) **[Files Used](FilesUsed.md)**
+3. **[Files Used](FilesUsed.md)**
 
-d) [Versioning](Versioning)
+4. [Versioning](Versioning)
