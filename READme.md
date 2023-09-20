@@ -6,6 +6,6 @@ a) [Project Title](ProjectTitle.md)
 
 b) [Description](Description)
 
-c) Files Used
+c) [Files Used](Files Used)
 
 d) Versioning
